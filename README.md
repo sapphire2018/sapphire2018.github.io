@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/sapphire2018/sapphire2018.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-Ruoyao Cui
-a student of College of Chemistry and Molecular Engineering
-interested in archaeology and chemistry
+Ruoyao Cui,
+a student of College of Chemistry and Molecular Engineering,
+interested in archaeology and chemistry,
 
 number:15326662361
 ![Image of me](http://a2.qpic.cn/psb?/V11SipxF4CTGfB/gMXFD89qrwwa*Cmh.b3xCrERO3josJXGbWmAGn4urUQ!/m/dNEAAAAAAAAA&ek=1&kp=1&pt=0&bo=VQhABlUIQAYRECc!&tl=1&vuin=1204373649&tm=1537520400&sce=60-4-3&rf=0-0)
